@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+my first repository on Github
+
+I love making money and learning new skills
